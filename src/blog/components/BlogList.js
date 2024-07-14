@@ -6,7 +6,7 @@ import placeholder from '../images/placeholder.jpg';
 
 const posts = [
   {
-    title: 'Born ',
+    title: 'Born A Crime',
     image: placeholder,
     content: `Born a Crime by Trevor Noah remains relevant today as it highlights the impact of racism, 
     identity struggles, and resilience. The memoir sheds light on issues of systemic racism and discrimination, 
