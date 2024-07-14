@@ -1,0 +1,31 @@
+/* src/components/Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #e7e7e7;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .navbar-links a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+    margin-left: 20px;
+  }
+  
+  .navbar-links a.active {
+    color: #ffcc00;
+  }
+  
+  .navbar-links a:hover {
+    color: #ff9900;
+  }
+  
