@@ -27,11 +27,7 @@ const posts = [
     mother and a white Swiss father. This defiance of apartheid laws is encapsulated in the title "Born a Crime,"
      which serves as a poignant reflection of the absurdity and brutality of apartheid's racial legislation. The memoir 
      also illuminates the intricate journey of navigating identity and belonging as a biracial individual in a society marked by deep racial divisions.
-     Noah eloquently recounts the profound impact of apartheid on his life, 
-    reflecting on the segregation and discrimination he faced due to being born to a black Xhosa 
-    mother and a white Swiss father. This defiance of apartheid laws is encapsulated in the title "Born a Crime,"
-     which serves as a poignant reflection of the absurdity and brutality of apartheid's racial legislation. The memoir 
-     also illuminates the intricate journey of navigating identity and belonging as a biracial individual in a society marked by deep racial divisions.
+     .
     `
   },
   {
@@ -41,18 +37,15 @@ const posts = [
      exploring the impact of paternal absence on his understanding of masculinity and the role of fathers
       in shaping their children's lives. Central to the narrative is Noah's poignant portrayal of his relationship with his mother, 
       Patricia Nombuyiselo Noah. Through vivid storytelling, Noah depicts her as a resilient and influential figure, shaping his values of independence, courage, and compassion. Additionally, the memoir delves into the complexities of Noah's relationship with his father, 
-      exploring the impact of paternal absence on his understanding of masculinity and the role of fathers in shaping their children's lives.Central to the narrative is Noah's poignant portrayal of his relationship with his mother, Patricia Nombuyiselo Noah. Through vivid storytelling, Noah depicts her as a resilient and influential figure, shaping his values of independence, courage, and compassion. Additionally, the memoir delves into the complexities of Noah's relationship with his father,
-      exploring the impact of paternal absence on his understanding of masculinity and the role of fathers
-       in shaping their children's lives. `,
+      e,
+      . `,
   },
   {
     title: 'Resilience and Survival',
     image: placeholder,
     content: `Noah paints a compelling picture of the challenges his family faced while growing up in poverty in Soweto. Despite the hardships, he illustrates how their resilience, resourcefulness, and determination enabled them to overcome adversity. Furthermore, 
     the memoir highlights Noah's adept use of humor as a coping mechanism, revealing his ability to find lightness in the midst of darkness. Noah paints a compelling picture of the challenges his family faced while growing up in poverty in Soweto. Despite the hardships, he illustrates how their resilience, resourcefulness, and determination enabled them to overcome adversity. Furthermore, 
-    the memoir highlights Noah's adept use of humor as a coping mechanism, revealing his ability to find lightness in the midst of darkness.Noah paints a compelling picture of the challenges his family faced while growing up in poverty in Soweto. Despite the hardships, he illustrates how their resilience, resourcefulness, and determination enabled them to overcome adversity. Furthermore, 
-    the memoir highlights Noah's adept use of humor as a coping mechanism, revealing his ability to find lightness in the midst of darkness.Noah paints a compelling picture of the challenges his family faced while growing up in poverty in Soweto. Despite the hardships, he illustrates how their resilience, resourcefulness, and determination enabled them to overcome adversity. Furthermore, 
-    the memoir highlights Noah's adept use of humor as a coping mechanism, revealing his ability to find lightness in the midst of darkness.`
+    the memoir highlights Noah's adept use of humor as a coping mechanism, revealing his ability to find lightness in the midst of darkness...`
   }
 ];
 
